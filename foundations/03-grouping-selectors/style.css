@@ -1,0 +1,16 @@
+.og-click{
+    background-color: black;
+    color: white;
+
+}
+
+.no-click{
+    background-color: yellow;
+
+}
+
+.og-click,
+.no-click{
+    font-family: Helvetica,Times New Roman,sans-serif;
+    font-size: 24px;
+}
